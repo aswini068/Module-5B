@@ -12,9 +12,6 @@ To write a **NumPy** program that deletes the second column from a given 2D arra
 
 ## 🧾 Program
 ```
-DEVELOPED BY: JANARHTANAN K
-REGISTER NO: 212223040072
-
 import numpy as np  
 a=np.array(eval(input())) 
 b=np.array(eval(input())) 
